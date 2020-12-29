@@ -30,7 +30,7 @@ sudo su - stack
 ```
 git clone https://opendev.org/openstack/devstack
 cd devstack
-git checkout f8a6eac9b5c0a77a11498bef9e274161727ca364
+git checkout 71c875d33c45d9811d56e43cd61eafc31283b9c1
 ```
 
 ### Create a local.conf
